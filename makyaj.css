@@ -1,0 +1,27 @@
+.first-row-bg-color {
+    background-color: #EEEEEE;
+}
+.center {
+    text-align: center;
+}
+.form-width {
+    width: 284px;
+}
+#deneme1 {
+    margin: 1px;
+    background-color: cyan;
+    padding: 1em;
+}
+#deneme2 {
+    margin: 1px;
+    background-color: cyan;
+    padding: 1em;
+}
+#deneme3 {
+    margin: 1px;
+    background-color: cyan;
+    padding: 1em;
+}
+.table {
+    width: 100%;
+}
