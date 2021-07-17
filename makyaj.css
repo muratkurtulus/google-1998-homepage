@@ -8,20 +8,14 @@
     width: 284px;
 }
 #deneme1 {
-    margin: 1px;
-    background-color: cyan;
-    padding: 1em;
+    background-color: #7EE5DA;   
 }
 #deneme2 {
-    margin: 1px;
-    background-color: cyan;
-    padding: 1em;
+    background-color:#70CCC2;
 }
 #deneme3 {
-    margin: 1px;
-    background-color: cyan;
-    padding: 1em;
+    background-color: #62B3AA;
 }
-.table {
-    width: 100%;
+.fs-1 {
+    font-size: -1;
 }
